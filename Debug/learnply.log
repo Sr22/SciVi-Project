@@ -1,0 +1,137 @@
+﻿  learnply.cpp
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(56,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(60,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(60,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(60,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(61,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(61,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(61,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(75,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(80,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(82,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(82,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(82,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(83,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(83,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\drawUtil.h(83,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(46,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(49,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(78,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(79,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(132,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(296,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(296,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(309,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(309,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(481,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(488,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(489,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(500,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(500,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(501,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(501,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(511,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(512,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(517,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(517,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(518,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(518,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(523,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(523,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(524,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(524,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(530,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(531,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(534,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(535,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(536,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(543,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(543,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(544,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(544,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(550,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(551,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(556,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(556,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(557,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(557,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(562,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(562,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(563,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(563,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(569,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(574,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(580,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(598,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(605,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(606,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(648,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(649,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(650,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(657,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(657,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(658,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(658,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(668,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(669,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(674,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(674,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(675,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(675,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(680,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(680,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(681,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(681,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(688,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(693,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(699,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(886,50): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(924,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(925,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(965,26): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(977,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(977,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(992,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(992,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(992,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(993,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(993,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(993,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1032,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1033,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1038,12): warning C4101: 'k': unreferenced local variable
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1073,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1115,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1106,10): warning C4101: 'mat_diffuse': unreferenced local variable
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1159,15): warning C4101: 'i': unreferenced local variable
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1205,6): warning C4101: 'i': unreferenced local variable
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1245,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1246,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1294,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1295,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1491,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1492,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1549,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1549,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1612,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1612,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1612,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1618,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1624,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1630,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1652,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1652,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1652,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1658,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1664,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1670,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1675,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1680,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1684,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1593,18): warning C4101: 'j': unreferenced local variable
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(1593,15): warning C4101: 'i': unreferenced local variable
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(891): warning C4715: 'bilinear_interpolate_at_point': not all control paths return a value
+C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\learnply\learnply.cpp(917): warning C4715: 'get_quad_by_position': not all control paths return a value
+learnply.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  learnply.vcxproj -> C:\Users\Shayla\Documents\CS453\HW2\learnply_2021\learnply_2021\Debug\learnply.exe
+  0 File(s) copied
